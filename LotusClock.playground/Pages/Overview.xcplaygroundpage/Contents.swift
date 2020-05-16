@@ -1,45 +1,41 @@
 /*:
- 
  # Lotus Clock: a box breathing timer.
  
- ## The world is worried. 🥺
+ ## Problem: the world is worried. 🥺
  
- Just in 2017, globally, **10.7% (792 million) of our population suffer mental health disorders**, with the highest being:
- * _anxiety_ (3.4%, 264 million) and
+ Just in 2017, globally, __10.7% (792 million) of our population suffer mental health issues__, the highest being:
+ * _anxiety_ (3.4%, 264 million), and
  * _depression_ (3.8%, 284 million).
  
- Although stress and all that can be part of our lives, we can solve them!
+ ## Solution: save the world with box breathing. 🌬
  
- ## Box breathing: one way to calm the storm. 🌬
- 
- Box breathing is a simple, slow & deep breathing technique, developed by Navy SEALs to maintain calm during their combat training/condition.
+ Box breathing (four-square breathing) is a breathing technique, developed by Navy SEAL, to maintain calm & mental toughness in combat situations.
  
  ### Medical benefits 💖
  
- * Better physical/work performance, mental clarity, and decision-making;
- * Better sense of control;
- * Improve mood, reduce _stress_ and even serious _anxiety/panic disorders_; and
- * Reduce insomnia during bedtime.
+ * Better physical/work performance;
+ * Improved mental clarity, sense of control, and decision-making;
+ * Treat _stress_ and even serious _anxiety/panic disorders_;
+ * Reduce insomnia if done before bedtime.
  
- ### How to do it? How long? ⏱
+ ### Steps & routine 👣
  
- 1 full cycle = Inhale 4 secs, hold breath 4 secs, exhale 4 secs, hold breath 4 secs. Use your full lung capacity while inhaling and exhaling.
+ The breathing _cycle_:
  
- Beginners should start with one minute or more. And do it daily, once or more. Quick, right?
+ 1. Inhale for 4 seconds, fill your entire lungs;
+ 2. Hold your breath for 4 seconds;
+ 3. Exhale for 4 seconds, clear all air from your lungs;
+ 4. Hold your breath for 4 seconds.
  
- Since 1 cycle = 16 seconds, 60 seconds leaves incomplete 4 cycles... 16 secs + 16 secs + 16 secs + 12 secs?!
+ Routine:
  
- So, you need: 4 cycles x 16 seconds per full cycle = **64 seconds**.
+ * For beginners: 4 cycles (~1 minute).
+ * If you're comfortable, do 8 (~2 mins) or 12 (~3 mins).
+ * You can do them daily, once or more times.
  
- * Note:
- You might feel uneasy at first, but no worries: once you get used to it, the breathing feels better and you can increase the minutes.  😊
+ ## Mission 🏁
  
- ## Your mission: save the world... 🌎🌍🌏
- 
- ...starting from yourself and this playground! We'll learn to use SwiftUI to make it tick.
- 
- * Callout(Prerequisites):
- No SwiftUI skills needed. Basic Swift knowhow is helpful but not necessary. I'll guide you as we go along.
+ Create a breathing timer for box breathing with SwiftUI. Call it the __Lotus Clock__. Save the world.
  
  */
 //: [Let's code!](@next)

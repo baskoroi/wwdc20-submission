@@ -2,43 +2,45 @@
  [Previous: Hello (again), rectangle!](@previous)
  
  # Shrink the giant! 🦕
-
- We have two issues: the rectangle is darn huge, and there's not enough _space_. That's why we're here!
  
- Don't forget to set size for our `RoundedRectangle` before giving some... space.
+ Modifiers change how a View looks and behaves.
  
- To squeeze the SwiftUI views in a _stack_, we can use a bunch of `Spacer`s. As the name says, it adds space between `View`s.
+ To shrink the rounded rectangle,  we can set the size for the `RoundedRectangle` using its `.frame(width:height:alignment)` modifier.
+ 
+ `Spacer`s also add space between `View`s. Without them, the Views will look compressed or mispositioned.
 
  ## Goal
+ 
  * Callout(Tidy, tidy, tidy...):
-   * Set size of our `RoundedRectangle` using `.frame(...)` modifier.
-   * Add `Spacer()` before and after the rounded rectangle and Hello text.
+   * Add `Spacer()`s after the rounded rectangle and Hello text.
+   * The rectangle size has been set for you.
  
- You may be wondering: where's the lotus clock? This here is all the basics needed for us to add our lotus clock.
+ You may be wondering: where's the lotus clock?
  
- And the good news? You'll do it in only _one_ page after this!
+ Next page. This here's all the basics needed.
  */
-
 import SwiftUI
 import PlaygroundSupport
 
 struct ContentView: View {
-    // GO: set this to 240
-    let sideLength: CGFloat = 240
+    
+    let size: CGFloat = 240
     
     var body: some View {
         VStack {
-            // here's an example Spacer, add two more in next comments
-            Spacer()
             
+            // here's an example Spacer, add two more below next comments
+            Spacer()
+        
             RoundedRectangle(cornerRadius: 32)
-                .frame(width: sideLength, height: sideLength, alignment: .center)
+                .frame(width: size, height: size, alignment: .center)
             
             // GO: add Spacer() here
             
             Text("Hello, world!")
             
             // GO: add Spacer() here
+            
         }
     }
 }
