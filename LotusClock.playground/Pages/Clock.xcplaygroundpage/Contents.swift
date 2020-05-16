@@ -3,9 +3,7 @@
  
 # May the clock breathe! 𑁍
 
-The moment you've been waiting for: our __lotus clock__.
-
-We provide here:
+We have provided here:
  
 * `BreathingClock` object in `ContentView`, to count the cycles/steps;
 * `LotusView`, to animate the lotus clock; and
@@ -16,9 +14,9 @@ We provide here:
 * Callout(The final countdown...):
   * Run to ensure the clock is running well.
  
- For first try: don't wait for 4 cycles. No need to breathe along.
+ For first try: don't wait this clock to animate for 4 cycles. No need to breathe along.
  
- Now what matters is, whether the lotus clock animates... 😉
+ Now what matters is, whether the lotus clock animates... 😉 After that, just go to the next page!
 */
 import SwiftUI
 import Combine

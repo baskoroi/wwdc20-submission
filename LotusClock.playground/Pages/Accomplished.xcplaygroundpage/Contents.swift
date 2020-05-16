@@ -27,9 +27,9 @@
  * Go share them and the Lotus Clock to your friends, social media, wherever!
  * Regularly do box breathing!
  
- ✅ __Here's the end of this playground.__ 🍾
+ ✅ __End of playground.__ 🍾
  
- Regards,
+ Best regards,
  
  _Baskoro_
  */

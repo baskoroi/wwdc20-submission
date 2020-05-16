@@ -8,11 +8,11 @@
  
  `ContentView` in SwiftUI _cannot contain_ more than one `View`.
  
- A `Text` and a `RoundedRectangle`? Considered as two.
+ A `Text` and a `RoundedRectangle` are considered as two.
 
 ## Goal
  
-Group those two `View`s into one with _stacking_. We can use:
+Two `View`s can be grouped into one with _stacking_. There are:
 * `HStack` (stack left to right),
 * `VStack` (top to bottom), or
 * `ZStack` (front to back).

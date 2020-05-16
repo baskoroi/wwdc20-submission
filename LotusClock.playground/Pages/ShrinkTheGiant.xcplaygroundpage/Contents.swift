@@ -5,19 +5,15 @@
  
  Modifiers change how a View looks and behaves.
  
- To shrink the rounded rectangle,  we can set the size for the `RoundedRectangle` using its `.frame(width:height:alignment)` modifier.
+ To shrink it, `RoundedRectangle` has the  `.frame(width:height:alignment)` modifier. We can use that.
  
- `Spacer`s also add space between `View`s. Without them, the Views will look compressed or mispositioned.
+ `Spacer`s also add space between `View`s. Without them, the `View`s will look compressed or mispositioned.
 
  ## Goal
  
  * Callout(Tidy, tidy, tidy...):
    * Add `Spacer()`s after the rounded rectangle and Hello text.
-   * The rectangle size has been set for you.
- 
- You may be wondering: where's the lotus clock?
- 
- Next page. This here's all the basics needed.
+   * The rectangle size and `.frame(...)` modifier has been set for you.
  */
 import SwiftUI
 import PlaygroundSupport
@@ -46,4 +42,10 @@ struct ContentView: View {
 }
 
 PlaygroundPage.current.setLiveView(ContentView())
-//: [Next: Where's my clock, _btw_?!](@next)
+/*:
+ You may be wondering: where's the lotus clock?
+ 
+ Next page. This here's all the basics needed.
+ 
+ [Next: Where's my clock, _btw_?!](@next)
+*/

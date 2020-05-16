@@ -5,7 +5,7 @@
  SwiftUI is Apple's newest tool to create user interfaces on all Apple devices, with the same code: iPhone, iPad, Macs, Apple Watch, and even Apple TV.
  
  ## Goal
- Run the code to see some hello.
+ Run the code below.
  */
 import SwiftUI
 import PlaygroundSupport
@@ -19,5 +19,6 @@ struct ContentView: View {   // your view name
     }
 }
 
+// Play the below line as well
 PlaygroundPage.current.setLiveView(ContentView())
 //: [Next: Add something else!](@next)
