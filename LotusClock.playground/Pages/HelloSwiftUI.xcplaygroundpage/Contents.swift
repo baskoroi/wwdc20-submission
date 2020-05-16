@@ -1,7 +1,7 @@
 import PlaygroundSupport
 /*: [Previous: Intro to box breathing](@previous)
 
- # Hello, SwiftUI!
+ # Hello, SwiftUI! 🐦
  
  SwiftUI is Apple's newest tool to create user interfaces on all their devices: iPhone, iPad, Mac devices, Apple Watch, and even Apple TV.
  

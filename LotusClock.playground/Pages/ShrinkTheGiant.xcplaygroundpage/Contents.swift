@@ -1,7 +1,7 @@
 /*:
  [Previous: Hello (again), rectangle!](@previous)
  
- # Shrink the giant!
+ # Shrink the giant! 🦕
 
  We have two issues: the rectangle is darn huge, and there's not enough _space_. That's why we're here!
  

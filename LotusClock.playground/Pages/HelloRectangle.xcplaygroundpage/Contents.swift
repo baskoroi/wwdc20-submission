@@ -1,8 +1,10 @@
-/*: [Previous](@previous)
+/*: [Previous: Hi SwiftUI!](@previous)
 
-# Hello, Rectangle!
+# Hello, Rectangle! 🔲
 
- If you notice the lotus clock, it's a square-like, with some rounded corners. In SwiftUI, we call this a `RoundedRectangle`. So we'll make one, right above the Hello text!
+ If you notice the lotus clock, it's a square-like, with some rounded corners.
+ 
+ In SwiftUI, we call this a `RoundedRectangle`. So we'll make one, right above the Hello text!
  
  One catch: A `Text` is a view. A `RoundedRectangle` view. SwiftUI can't contain two views or more at the same time inside `var body: some View {...}`.
  
@@ -31,5 +33,5 @@ PlaygroundPage.current.setLiveView(ContentView())
 /*:
  By now, we should've seen a huge black rounded rectangle. This is because we haven't set the proper size and positioning. It's okay, let's tidy it up now... 😝
  
- [Next: Slay the giant!](@next)
+ [Next: Slay thine giant!](@next)
  */
