@@ -1,5 +1,5 @@
 /*:
- # Lotus Clock: a box breathing timer.
+ # 𑁍 Lotus Clock: a box breathing timer.
  
  ## Problem: the world is worried. 🥺
  
@@ -11,7 +11,7 @@
  
  ## Solution: save the world with box breathing. 🌬
  
- Box breathing (four-square breathing) is a breathing technique, developed by Navy SEAL, to maintain calm & mental toughness in combat or chaotic situations.
+ Box breathing (four-square breathing) is a technique developed by Navy SEAL, to maintain calm & mental toughness in combat or chaotic situations.
  
  ### Medical benefits 💖
  
