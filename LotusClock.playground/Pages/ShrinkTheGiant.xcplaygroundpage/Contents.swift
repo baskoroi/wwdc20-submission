@@ -32,12 +32,11 @@ struct ContentView: View {
                 .frame(width: size, height: size, alignment: .center)
             
             // GO: add Spacer() here
-            Spacer()
+            
             
             Text("Hello, world!")
             
             // GO: add Spacer() here
-            Spacer()
             
         }
     }
