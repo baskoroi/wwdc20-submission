@@ -20,3 +20,7 @@ This breathing technique was previously developed by the Navy SEALs to train the
 
 * Frameworks: SwiftUI, Combine
 * Xcode 11.4.1 on macOS Catalina 10.15.4 - this is just an Xcode playground.
+
+## Research & References
+
+Please open the provided `Research+References.pages` file to read more.
